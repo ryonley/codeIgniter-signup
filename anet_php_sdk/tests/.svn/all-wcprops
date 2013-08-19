@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/askthedoctorcart/!svn/ver/5/askthedoccart/anet_php_sdk/tests
+END
+AuthorizeNet_SOAP_Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/askthedoctorcart/!svn/ver/5/askthedoccart/anet_php_sdk/tests/AuthorizeNet_SOAP_Test.php
+END
+report.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/askthedoctorcart/!svn/ver/5/askthedoccart/anet_php_sdk/tests/report.html
+END
+AuthorizeNetTD_Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/askthedoctorcart/!svn/ver/5/askthedoccart/anet_php_sdk/tests/AuthorizeNetTD_Test.php
+END
+AuthorizeNetCIM_Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/askthedoctorcart/!svn/ver/5/askthedoccart/anet_php_sdk/tests/AuthorizeNetCIM_Test.php
+END
+AuthorizeNetSIM_Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/askthedoctorcart/!svn/ver/5/askthedoccart/anet_php_sdk/tests/AuthorizeNetSIM_Test.php
+END
+AuthorizeNetAIM_Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/askthedoctorcart/!svn/ver/5/askthedoccart/anet_php_sdk/tests/AuthorizeNetAIM_Test.php
+END
+AuthorizeNetCP_Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/askthedoctorcart/!svn/ver/5/askthedoccart/anet_php_sdk/tests/AuthorizeNetCP_Test.php
+END
+domain.crt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/askthedoctorcart/!svn/ver/5/askthedoccart/anet_php_sdk/tests/domain.crt
+END
+AuthorizeNetARB_Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/askthedoctorcart/!svn/ver/5/askthedoccart/anet_php_sdk/tests/AuthorizeNetARB_Test.php
+END
+AuthorizeNetDPM_Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/askthedoctorcart/!svn/ver/5/askthedoccart/anet_php_sdk/tests/AuthorizeNetDPM_Test.php
+END
+AuthorizeNet_Test_Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/askthedoctorcart/!svn/ver/5/askthedoccart/anet_php_sdk/tests/AuthorizeNet_Test_Config.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/askthedoctorcart/!svn/ver/5/askthedoccart/anet_php_sdk/tests/README
+END

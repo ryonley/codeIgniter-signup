@@ -1,0 +1,16 @@
+
+<div id="infoMessage"><?php echo $message;?></div>
+<?php
+
+echo 'Your transaction id is '.$transaction_id.'<br/>';
+
+echo 'The transaction id stored in the session is'. $this->session->userdata('transaction_id').'<br/>';
+
+echo 'Your Ameridoc "External Member Id" is '.$member_id.'<br/>';
+
+echo 'The ameridoc message is '.$ameridoc_Message.'<br/>';
+
+echo 'ameridoc additional info is '.$ameridoc_AdditionalInfo.'<br/>';
+
+var_dump($this->session->all_userdata());
+?>
